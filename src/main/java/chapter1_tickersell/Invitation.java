@@ -1,5 +1,8 @@
 package chapter1_tickersell;
 
-public class Invitation {
 
+import java.time.LocalDateTime;
+
+public class Invitation {
+  private LocalDateTime when;
 }

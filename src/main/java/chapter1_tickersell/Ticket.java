@@ -1,5 +1,10 @@
 package chapter1_tickersell;
 
-public class Ticket {
+import lombok.Getter;
+import lombok.Setter;
 
+@Getter
+@Setter
+public class Ticket {
+  private Long fee;
 }
