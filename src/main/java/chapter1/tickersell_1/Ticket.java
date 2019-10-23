@@ -1,7 +1,4 @@
-package chapter1_tickersell;
-
-import lombok.Getter;
-import lombok.Setter;
+package chapter1.tickersell_1;
 
 
 public class Ticket {

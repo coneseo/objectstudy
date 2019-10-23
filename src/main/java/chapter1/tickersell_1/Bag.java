@@ -1,4 +1,4 @@
-package chapter1_tickersell;
+package chapter1.tickersell_1;
 
 public class Bag {
   private Long amount;

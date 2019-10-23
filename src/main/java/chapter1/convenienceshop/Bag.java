@@ -1,10 +1,8 @@
-package day1convenience;
+package chapter1.convenienceshop;
 
-import java.util.List;
 import java.util.Map;
 import lombok.Getter;
 import lombok.Setter;
-import sun.util.resources.cldr.shi.CalendarData_shi_Latn_MA;
 
 @Getter
 @Setter

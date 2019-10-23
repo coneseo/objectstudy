@@ -1,4 +1,4 @@
-package day1convenience;
+package chapter1.convenienceshop;
 
 import java.util.List;
 import lombok.Getter;

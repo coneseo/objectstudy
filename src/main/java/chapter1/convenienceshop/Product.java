@@ -1,4 +1,4 @@
-package day1convenience;
+package chapter1.convenienceshop;
 
 import lombok.Getter;
 import lombok.Setter;
